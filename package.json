@@ -1,0 +1,22 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "App for scraping genealogy sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgortzak/scraper.git"
+  },
+  "author": "Mark Gortzak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgortzak/scraper/issues"
+  },
+  "homepage": "https://github.com/mgortzak/scraper#readme",
+  "dependencies": {
+    "puppeteer": "^1.10.0"
+  }
+}
